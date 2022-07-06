@@ -59,16 +59,7 @@ body{
   padding-right: 25px;
 }
 
-.rightSide input {
-  width: 220px;
-  height: 30px;
-  border: none;
-  border-radius: 4px;
-  padding-left: 10px;
-  font-size: 14px;
-  font-family: 'Chivo', sans-serif;
-  color: black;
-}
+
 
 .rightSide button {
   height: 32px;
@@ -80,14 +71,15 @@ body{
   background-color: #87255B;
   color: white;
   margin-left: 10px;
-  padding-top: 5px;
+  
+  margin-bottom: 20px;
 }
 
 button:hover {
   cursor: pointer;
 }
 
-@media only screen and (max-width: 850px) {
+/* @media only screen and (max-width: 850px) {
   .Navbar .leftSide .links a {
     font-size: 15px;
   }
@@ -119,4 +111,4 @@ button:hover {
     margin: 10px;
     font-size: 25px;
   }
-}
+} */
