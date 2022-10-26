@@ -35,13 +35,7 @@ body{
   align-items: center;
 }
 
-.Navbar .leftSide .links a {
-  max-height: 50px;
-  text-decoration: none;
-  color: white;
-  font-size: 20px;
-  margin-left: 15px;
-}
+
 .Navbar .leftSide button {
   display: none;
   margin-left: 20px;

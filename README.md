@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Getting Started with the app
+
+Choose a sorting algorithm and click "GO!"
+Click "new" after sorting is done to refresh bars
+Beware that clicking "new" while animations are running will not stop the sorting. An issue to fix in the future.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
